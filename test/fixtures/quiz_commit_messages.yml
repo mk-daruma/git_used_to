@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  quiz_commit_message: MyString
+  quiz_branch: one
+
+two:
+  quiz_commit_message: MyString
+  quiz_branch: two
