@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  quiz_name: MyString
+  quiz_introduction: MyText
+  quiz_type: MyString
+  user: one
+
+two:
+  quiz_name: MyString
+  quiz_introduction: MyText
+  quiz_type: MyString
+  user: two

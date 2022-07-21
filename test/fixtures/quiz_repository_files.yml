@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  quiz_repository_file_name: MyString
+  quiz_repository_file_status: MyString
+  quiz_repository_file_text_status: MyString
+  quiz_commit_message: one
+
+two:
+  quiz_repository_file_name: MyString
+  quiz_repository_file_status: MyString
+  quiz_repository_file_text_status: MyString
+  quiz_commit_message: two
